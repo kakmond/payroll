@@ -2,7 +2,8 @@
 
 ## Members
 
-Wongsathorn Panichkurkul 5910545817
+- Wongsathorn Panichkurkul 5910545817
+- Wasuthun Wanaphongthipakorn 5910545841
 
 ## Test Screen Capture
 
