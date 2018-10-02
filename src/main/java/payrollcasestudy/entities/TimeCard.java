@@ -5,7 +5,7 @@ import java.util.Calendar;
 
 /**
  * Represents time cards for hourly employees who are paid by the amount of
- * working hours.
+ * working hour
  */
 public class TimeCard {
 
