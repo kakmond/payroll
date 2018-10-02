@@ -7,5 +7,7 @@
 
 ## Test Screen Capture
 
-![alt text](https://github.com/kakmond/payroll/blob/master/screen%20captures/screenshot.PNG?raw=true)
+![alt text](https://github.com/kakmond/payroll/blob/master/screen%20captures/Capture1.PNG?raw=true)
+![alt text](https://github.com/kakmond/payroll/blob/master/screen%20captures/Capture2.PNG?raw=true)
+
 
